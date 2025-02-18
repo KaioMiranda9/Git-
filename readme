@@ -8,3 +8,5 @@ Git add .
 Git Commit -m "nome do save"
 Git remote add origin "url"
 Git push -u origin main
+
+para mudar a url Git remote remove origin 
