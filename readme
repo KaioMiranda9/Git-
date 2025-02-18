@@ -1,10 +1,10 @@
 Como colocar o codigo no Github
 
 Git init
-Git brunch -m master main
-Git config --global.user "usuario"
-Git confif --global.email "email"
+Git branch -m master main
+Git config --global user.name "usuario"
+Git config --global user.email "email"
 Git add .
 Git Commit -m "nome do save"
-Git remote add origin main "url"
+Git remote add origin "url"
 Git push -u origin main
